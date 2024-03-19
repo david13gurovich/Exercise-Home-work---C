@@ -1,0 +1,1 @@
+int Console(ilrd::Logger *log);
